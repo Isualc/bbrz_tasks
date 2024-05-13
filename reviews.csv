@@ -1,0 +1,11 @@
+review_id,product_id,user_id,rating,review_text,review_date
+1,1,1,4,Great laptop fast delivery!,2023-04-06
+2,2,2,5,Amazing smartphone highly recommended.,2023-04-11
+3,3,3,4,Good quality headphones.,2023-04-16
+4,4,4,3,Decent tablet good value for money.,2023-04-21
+5,5,5,5,Excellent monitor crisp display.,2023-04-26
+6,6,6,4,Love the keyboard feels great to type on.,2023-05-01
+7,7,7,3,Mouse works fine but scroll wheel feels loose.,2023-05-06
+8,8,8,4,Printer prints well easy setup.,2023-05-11
+9,9,9,5,Smartwatch tracks accurately comfortable to wear.,2023-05-16
+10,10,10,4,Camera takes excellent photos and videos.,2023-05-21

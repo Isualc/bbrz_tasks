@@ -1,0 +1,11 @@
+product_id,product_name,description,price,stock_quantity
+1,Laptop,15-inch 8GB RAM 512GB SSD,1200,50
+2,Smartphone,6.5-inch 128GB storage 5G,800,100
+3,Headphones,Noise-canceling over-ear150,30,
+4,Tablet,10-inch 64GB storage WiFi,400,80
+5,Monitor,24-inch Full HD LED,250,60
+6,Keyboard,Mechanical RGB backlighting100,50,
+7,Mouse,Wireless ergonomic design50,70,
+8,Printer,Color inkjet WiFi-enabled200,40,
+9,Smartwatch,Fitness tracker heart rate monitor150,90,
+10,Camera,Mirrorless 24MP 4K video,800,30
